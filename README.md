@@ -1,15 +1,20 @@
 # vortex-pok3r-layout
 
-My personal MacOS layout for the Vortex POK3R mechanical keyboard.
+My personal MacOS layout for the Vortex POK3R mechanical keyboard (ISO).
 
 ## Current layout
 
 I only use the layer 2 for now, and this is its current disposition.
+
+- Special keys depicted in cyan.
+- Arrow keys depicted in yellow.
+- Function keys depicted in green.
+
 Instructions on how to set these mappings can be found [here](./instructions.md).
 
-**TODO: LAYER 2 IMAGE**
+![layout\_img](layout_img/keyboard-layout.png)
 
-_Image done with [Keyboard Layout Editor](http://www.keyboard-layout-editor.com)_
+_Image made with [Keyboard Layout Editor](http://www.keyboard-layout-editor.com)._
 
 ## Mappings
 
